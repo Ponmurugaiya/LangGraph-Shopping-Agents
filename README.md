@@ -44,8 +44,8 @@ The agents can search multiple stores (Amazon, Flipkart, eBay), aggregate result
 1. Clone the repository:
 
 ```bash
-git clone <repo_url>
-cd <repo_name>
+git clone https://github.com/Ponmurugaiya/LangGraph-Shopping-Agents.git
+cd LangGraph-Shopping-Agents
 ````
 
 2. Install dependencies:
