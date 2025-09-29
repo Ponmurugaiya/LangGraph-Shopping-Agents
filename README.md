@@ -140,8 +140,3 @@ simulated_user_queries = [
 Final Recommendations after turn 1: ['Running shoes A1 - $50', 'Running shoes F1 - $55', 'Running shoes E1 - $52', 'Running shoes A2 - $60', 'Running shoes F2 - $65']
 ```
 
----
-
-## License
-
-MIT License © 2025
