@@ -1,6 +1,6 @@
 # LangGraph multi-agent shopping search
 
-This project demonstrates a **multi-agent shopping search system** using **LangGraph-style agents**.  
+This project demonstrates a **multi-agent shopping search system** using **LangGraph Framework**.  
 The agents can search multiple stores (Amazon, Flipkart, eBay), aggregate results, and apply filters like maximum price. It also supports **multi-turn interactions** with persistent memory.
 
 ---
